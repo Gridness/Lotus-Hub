@@ -31,20 +31,20 @@ public class MainViewModel
             new RelayCommand(_ => _server.ConnectToServer(Username), o => !string.IsNullOrEmpty(Username));
 
         SendMessageCommand =
-            new RelayCommand(_ => _server.ConnectToServer(Username), _ => !string.IsNullOrEmpty(Message));
+            new RelayCommand(_ => _server.SendMessageToServer(Message), _ => !string.IsNullOrEmpty(Message));
     }
 
     private void UserDisconnected()
     {
         var uid = _server.PacketReader.ReadMessage();
         var user = Users.FirstOrDefault(x => x.UID == uid);
-        Application.Current.Dispatcher.Invoke(() => { Users.Remove(user); });
+        Application.Current.Dispatcher.Invoke(() => Users.Remove(user));
     }
 
     private void MessageReceived()
     {
         var msg = _server.PacketReader.ReadMessage();
-        Application.Current.Dispatcher.Invoke(() => { Messages.Add(msg); });
+        Application.Current.Dispatcher.Invoke(() => Messages.Add(msg));
     }
 
     private void UserConnected()
