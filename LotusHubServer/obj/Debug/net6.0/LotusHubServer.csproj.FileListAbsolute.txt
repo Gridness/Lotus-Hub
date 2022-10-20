@@ -1,0 +1,15 @@
+F:\Vse\Bots\LotusHub\LotusHubServer\bin\Debug\net6.0\LotusHubServer.exe
+F:\Vse\Bots\LotusHub\LotusHubServer\bin\Debug\net6.0\LotusHubServer.deps.json
+F:\Vse\Bots\LotusHub\LotusHubServer\bin\Debug\net6.0\LotusHubServer.runtimeconfig.json
+F:\Vse\Bots\LotusHub\LotusHubServer\bin\Debug\net6.0\LotusHubServer.dll
+F:\Vse\Bots\LotusHub\LotusHubServer\bin\Debug\net6.0\LotusHubServer.pdb
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.csproj.AssemblyReference.cache
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.AssemblyInfoInputs.cache
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.AssemblyInfo.cs
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.csproj.CoreCompileInputs.cache
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.dll
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\refint\LotusHubServer.dll
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.pdb
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\LotusHubServer.genruntimeconfig.cache
+F:\Vse\Bots\LotusHub\LotusHubServer\obj\Debug\net6.0\ref\LotusHubServer.dll

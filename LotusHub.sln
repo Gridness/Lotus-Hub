@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotusHub", "LotusHub\LotusHub.csproj", "{410E781D-6878-4C69-9F8E-D7AB2BB00F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LotusHubServer", "LotusHubServer\LotusHubServer.csproj", "{24B6AB23-7319-4DCF-B585-A071A3D43791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{410E781D-6878-4C69-9F8E-D7AB2BB00F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{410E781D-6878-4C69-9F8E-D7AB2BB00F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{410E781D-6878-4C69-9F8E-D7AB2BB00F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{410E781D-6878-4C69-9F8E-D7AB2BB00F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B6AB23-7319-4DCF-B585-A071A3D43791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B6AB23-7319-4DCF-B585-A071A3D43791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B6AB23-7319-4DCF-B585-A071A3D43791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B6AB23-7319-4DCF-B585-A071A3D43791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
